@@ -4,5 +4,5 @@ This repository contains a comprehensive analysis of customer churn, exploring f
 ## Problem Statement
  A canadian bank provided a churn database containing six months of transactional and demographic data for 10,000 customers. The goal of this project is to analyze this dataset to identify key drivers of churn, build predictive models to anticipate customer behavior, and recommend actionable strategies to improve retention rates and overall customer satisfaction.
 #
-[https://docs.google.com/document/d/1LujgftXUBdd7fEscYFml0meJq6xdREsph_pw--PRMeU/edit?usp=classroom_web&authuser=0][Data Dictionary]
+(Data Dictionary)[https://docs.google.com/document/d/1LujgftXUBdd7fEscYFml0meJq6xdREsph_pw--PRMeU/edit?usp=classroom_web&authuser=0]
 
