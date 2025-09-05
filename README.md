@@ -51,7 +51,7 @@ To reduce churn and improve customer retention, the bank should:<br>
 
 Target At-Risk Segments – focus campaigns on young customers, single-product holders, and inactive users.<br>
 
-Enhance Engagement – loyalty programs, personalized offers, and proactive support.<br>
+Enhance Engagement – loyalty programs, personalized offers, and proactive support*.<br>
 
 Cross-Selling Opportunities – encourage multiple product adoption to increase stickiness.<br>
 
