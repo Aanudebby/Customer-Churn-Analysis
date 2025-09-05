@@ -47,19 +47,19 @@ Key findings from the churn analysis:<br>
 
  # Recommendations<br>
 
-To reduce churn and improve customer retention, the bank should:<br>
+- To reduce churn and improve customer retention, the bank should:<br>
 
-Target At-Risk Segments – focus campaigns on young customers, single-product holders, and inactive users.<br>
+- Target At-Risk Segments – focus campaigns on young customers, single-product holders, and inactive users.<br>
 
-Enhance Engagement – loyalty programs, personalized offers, and proactive support*.<br>
+- Enhance Engagement – loyalty programs, personalized offers, and proactive support*.<br>
 
-Cross-Selling Opportunities – encourage multiple product adoption to increase stickiness.<br>
+- Cross-Selling Opportunities – encourage multiple product adoption to increase stickiness.<br>
 
-Improve Onboarding – support new customers with personalized services.<br>
+- Improve Onboarding – support new customers with personalized services.<br>
 
-Region-Specific Strategies – address high-churn geographies with tailored offers.<br>
+- Region-Specific Strategies – address high-churn geographies with tailored offers.<br>
 
-Predictive Monitoring – implement churn prediction models for early intervention.<br>
+- Predictive Monitoring – implement churn prediction models for early intervention.<br>
 
 
 
