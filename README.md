@@ -6,24 +6,25 @@ This repository contains a comprehensive analysis of customer churn, exploring f
 ## Data Sourcing
 The dataset contains 10,000 customer records collected over six months, including demographic, financial, and engagement attributes.
 Dataset Features:
-Demographics: Age, Gender, Geography, Tenure.<br>
-Customer Information: Credit Score, Balance, Number of Products, Active/Inactive status.<br>
-Target Variable: Churn indicator (1 = churned, 0 = retained).<br>
-- Raw Churned Dataset<b>
+- Demographics: Age, Gender, Geography, Tenure.<br>
+- Customer Information: Credit Score, Balance, Number of Products, Active/Inactive status.<br>
+- Target Variable: Churn indicator (1 = churned, 0 = retained).<br>
+
+  Raw Churned Dataset<b>
 <img width="1158" height="431" alt="image" src="https://github.com/user-attachments/assets/d14ec88b-7a38-40f3-be06-0d2a81221eaf" /><br>
 [Data Dictionary](https://docs.google.com/document/d/1LujgftXUBdd7fEscYFml0meJq6xdREsph_pw--PRMeU/edit?usp=classroom_web&authuser=0)
 
 ## Data Cleaning & Transformation<br>
 Steps performed to prepare the dataset:<br>
-Handled missing values in demographic and financial attributes.<br>
-Removed duplicate records.<br>
-Standardized categorical fields (e.g., gender, geography).<br>
+- Handled missing values in demographic and financial attributes.<br>
+- Removed duplicate records.<br>
+- Standardized categorical fields (e.g., gender, geography).<br>
 Created new grouped columns like:<br>
-Age Group<br>
-Credit Score Status<br>
-Membership Status<br>
-Credit Card Validation<br>
-Customer Churn Status<br>
+- Age Group<br>
+- Credit Score Status<br>
+- Membership Status<br>
+- Credit Card Validation<br>
+- Customer Churn Status<br>
 <img width="1155" height="419" alt="image" src="https://github.com/user-attachments/assets/9657363d-03f3-4e43-a856-ffec529ed4f7" /><br>
 
 ## Dashboard<br>
