@@ -48,7 +48,7 @@ Key findings from the churn analysis:<br>
 
  # Recommendations<br>
 
-- To reduce churn and improve customer retention, the bank should:<br>
+ To reduce churn and improve customer retention, the bank should:<br>
 
 - Target At-Risk Segments – focus campaigns on young customers, single-product holders, and inactive users.<br>
 
