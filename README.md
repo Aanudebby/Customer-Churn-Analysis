@@ -31,8 +31,7 @@ Created new grouped columns like:<br>
 
 <img width="765" height="431" alt="image" src="https://github.com/user-attachments/assets/4817354c-0cab-4737-afed-2f81dbd13bbf" />
 
-# Insights<br>
-
+## Insights<br>
 Key findings from the churn analysis:<br>
 - Demographics: Younger customers churned more frequently.<br>
 
@@ -46,7 +45,7 @@ Key findings from the churn analysis:<br>
 
 - Engagement: Inactive customers had the highest churn rate.<br>
 
- # Recommendations<br>
+ ## Recommendations<br>
 
  To reduce churn and improve customer retention, the bank should:<br>
 
