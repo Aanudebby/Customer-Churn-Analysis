@@ -1,4 +1,6 @@
 # Customer-Churn-Analysis
+![black-businessman-using-computer-laptop](https://github.com/user-attachments/assets/ebca6e63-66d5-424a-8110-20b0e295008f)
+
 ## Introduction
 This repository contains a comprehensive analysis of customer churn, exploring factors that influence customer retention and identifying patterns that lead to churn. The project utilizes PowerBI to provide actionable insights, empowering businesses to make data-driven decisions for improving customer retention strategies.
 ## Problem Statement
